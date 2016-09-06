@@ -1,4 +1,4 @@
-baseurl = "https://girls-js.github.io/"
+baseurl = "https://girls.js.org/"
 languageCode = "en-us"
 title = "girls.js"
 theme = "hugo-strata-theme"
