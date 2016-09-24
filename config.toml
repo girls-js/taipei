@@ -1,6 +1,6 @@
-baseurl = "https://girls.js.org/"
-languageCode = "en-us"
-title = "girls.js"
+baseurl = "https://girls.js.org/taipei/"
+languageCode = "zh-TW"
+title = "girls.js Taipei"
 publishdir = "build"
 theme = "hugo-strata-theme"
 
@@ -20,4 +20,4 @@ theme = "hugo-strata-theme"
 [params.about]
     hide  = false
     title = "About girls.js"
-    content = "girls.js aims to inspire girls to jump into tech in a friendly and comfortable environment dedicated to girls. We help and organize 1-day workshops just for girls (sorry guys, you've already have a big community) in hopes of making technology more approachable and comfy for us."
+    content = "Taipeigirls.js aims to inspire girls to jump into tech in a friendly and comfortable environment dedicated to girls. We help and organize 1-day workshops just for girls (sorry guys, you've already have a big community) in hopes of making technology more approachable and comfy for us."
