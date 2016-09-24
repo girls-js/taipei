@@ -1,6 +1,7 @@
 baseurl = "https://girls.js.org/"
 languageCode = "en-us"
 title = "girls.js"
+publishdir = "build"
 theme = "hugo-strata-theme"
 
 [params]
