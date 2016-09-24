@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>girls.js</title>
-    <link>https://girls.js.org/</link>
-    <description>Recent content on girls.js</description>
+    <title>girls.js Taipei</title>
+    <link>https://girls.js.org/taipei/</link>
+    <description>Recent content on girls.js Taipei</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://girls.js.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-TW</language>
+    <atom:link href="https://girls.js.org/taipei/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
